@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fsoft\\2024\\HN24_FR_NET_04\\04. Asp.net MVC\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9D4DB99-3F96-47DD-BCB6-42E52669DAE1}|QuizApp.WebAPI\\QuizApp.WebAPI.csproj|d:\\fsoft\\2024\\hn24_fr_net_04\\04. asp.net mvc\\quizapp\\quizapp.webapi\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D4DB99-3F96-47DD-BCB6-42E52669DAE1}|QuizApp.WebAPI\\QuizApp.WebAPI.csproj|solutionrelative:quizapp.webapi\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizzesController.cs",
+              "DocumentMoniker": "D:\\Fsoft\\2024\\HN24_FR_NET_04\\04. Asp.net MVC\\QuizApp\\QuizApp.WebAPI\\Controllers\\QuizzesController.cs",
+              "RelativeDocumentMoniker": "QuizApp.WebAPI\\Controllers\\QuizzesController.cs",
+              "ToolTip": "D:\\Fsoft\\2024\\HN24_FR_NET_04\\04. Asp.net MVC\\QuizApp\\QuizApp.WebAPI\\Controllers\\QuizzesController.cs*",
+              "RelativeToolTip": "QuizApp.WebAPI\\Controllers\\QuizzesController.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:21:40.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

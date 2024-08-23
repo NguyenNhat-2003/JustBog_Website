@@ -1,0 +1,30 @@
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\bin\Debug\net8.0\QuizApp.Business.deps.json
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\bin\Debug\net8.0\QuizApp.Business.dll
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\bin\Debug\net8.0\QuizApp.Business.pdb
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.AssemblyInfoInputs.cache
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.AssemblyInfo.cs
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.csproj.CoreCompileInputs.cache
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.dll
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\refint\QuizApp.Business.dll
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.pdb
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\ref\QuizApp.Business.dll
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\bin\Debug\net8.0\QuizApp.Data.dll
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\bin\Debug\net8.0\QuizApp.Data.pdb
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.csproj.AssemblyReference.cache
+D:\Fsoft\2024\HN24_FR_NET_04\04. Asp.net MVC\QuizApp\QuizApp.Business\obj\Debug\net8.0\QuizApp..C8BE531C.Up2Date
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\bin\Debug\net8.0\QuizApp.Business.deps.json
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\bin\Debug\net8.0\QuizApp.Business.dll
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\bin\Debug\net8.0\QuizApp.Business.pdb
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\bin\Debug\net8.0\QuizApp.Data.dll
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\bin\Debug\net8.0\QuizApp.Data.pdb
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.csproj.AssemblyReference.cache
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.AssemblyInfoInputs.cache
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.AssemblyInfo.cs
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.csproj.CoreCompileInputs.cache
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.csproj.CopyComplete
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.dll
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\refint\QuizApp.Business.dll
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\QuizApp.Business.pdb
+D:\Web\JustBlogMock\Back-end\QuizApp.Business\obj\Debug\net8.0\ref\QuizApp.Business.dll

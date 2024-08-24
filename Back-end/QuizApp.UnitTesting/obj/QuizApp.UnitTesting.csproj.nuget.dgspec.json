@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web\\JustBlogMock\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Web blog\\JustBlog_Website\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj": {}
   },
   "projects": {
-    "D:\\Web\\JustBlogMock\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj": {
+    "C:\\Users\\HP\\Desktop\\Web blog\\JustBlog_Website\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web\\JustBlogMock\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Web blog\\JustBlog_Website\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj",
         "projectName": "QuizApp.UnitTesting",
-        "projectPath": "D:\\Web\\JustBlogMock\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj",
-        "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\Web\\JustBlogMock\\Back-end\\QuizApp.UnitTesting\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Web blog\\JustBlog_Website\\Back-end\\QuizApp.UnitTesting\\QuizApp.UnitTesting.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Web blog\\JustBlog_Website\\Back-end\\QuizApp.UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -77,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -25,4 +25,7 @@ export class HomeComponent {
   OnClickContact(): void {
     this.router.navigateByUrl('contact')
   }
+  OnClickBlogView(): void {
+    this.router.navigateByUrl('blogview')
+  }
 }

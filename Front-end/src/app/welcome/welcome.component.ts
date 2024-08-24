@@ -31,5 +31,7 @@ export class WelcomeComponent {
   OnClickSignup(): void {
     this.router.navigateByUrl('signup')
   }
-  
+  OnClickBlogView(): void {
+    this.router.navigateByUrl('blogview')
+  }
 }

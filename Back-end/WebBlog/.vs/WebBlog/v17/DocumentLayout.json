@@ -1,86 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\",
+  "WorkspaceRootPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\data\\webblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\data\\webblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\posttagmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\posttagmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|solutionrelative:webblog.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.business\\mapper\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\mapper\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.business\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.business\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.business\\webblog.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\webblog.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\webblog.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\webblog.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|solutionrelative:webblog.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\mockproject\\back-end\\webblog\\webblog.data\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3F515A-D97B-4CC6-AD5E-EDE92991C6AC}|WebBlog.WebAPI\\WebBlog.WebAPI.csproj|solutionrelative:webblog.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.business\\mapper\\postprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\mapper\\postprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.business\\dtos\\post\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\dtos\\post\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.business\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\viewmodels\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.business\\webblog.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\webblog.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.business\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.business\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E6E837-D549-4841-9DF4-41FE69FB0B2A}|WebBlog.Business\\WebBlog.Business.csproj|solutionrelative:webblog.business\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|d:\\fpt intern\\web\\report\\justbog_website\\back-end\\webblog\\webblog.data\\data\\webblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF9F42-3433-47C1-A35C-6866157F17D8}|WebBlog.Data\\WebBlog.Data.csproj|solutionrelative:webblog.data\\data\\webblogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,276 +69,208 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "DockedWidth": 243,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PostTagMap.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\PostTagMap.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\PostTagMap.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\PostTagMap.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\PostTagMap.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:30:02.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebBlog.WebAPI\\appsettings.json",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebBlog.WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-25T02:29:25.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "WebBlog.Business\\Services\\PostService.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\Services\\PostService.cs",
-              "RelativeToolTip": "WebBlog.Business\\Services\\PostService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwCEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:21:24.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Data\\SeedData.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Data\\SeedData.cs",
-              "RelativeToolTip": "WebBlog.Data\\Data\\SeedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:21:17.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "WebBlog.Data\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBEAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:19:37.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Repositories\\GenericRepository.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "WebBlog.Data\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAswAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:18:45.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
-              "RelativeToolTip": "WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAcwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:16:43.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
-              "RelativeToolTip": "WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T02:16:39.47Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "WebBlog.Business",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
-              "RelativeDocumentMoniker": "WebBlog.Business\\WebBlog.Business.csproj",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
-              "RelativeToolTip": "WebBlog.Business\\WebBlog.Business.csproj",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-25T02:15:13.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PostMapper.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\Mapper\\PostMapper.cs",
-              "RelativeDocumentMoniker": "WebBlog.Business\\Mapper\\PostMapper.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\Mapper\\PostMapper.cs",
-              "RelativeToolTip": "WebBlog.Business\\Mapper\\PostMapper.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAcwAwAAAAyAAAA",
+              "Title": "WebBlogDbContext.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Data\\WebBlogDbContext.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Data\\WebBlogDbContext.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Data\\WebBlogDbContext.cs",
+              "RelativeToolTip": "WebBlog.Data\\Data\\WebBlogDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:51:54.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WebBlog.Data.csproj",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj",
-              "RelativeDocumentMoniker": "WebBlog.Data\\WebBlog.Data.csproj",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj",
-              "RelativeToolTip": "WebBlog.Data\\WebBlog.Data.csproj",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-25T01:35:57.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Comment.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\Comment.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Comment.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:49:07.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\User.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\User.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:48:11.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PostViewModel.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\ViewModels\\PostViewModel.cs",
-              "RelativeDocumentMoniker": "WebBlog.Business\\ViewModels\\PostViewModel.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\ViewModels\\PostViewModel.cs",
-              "RelativeToolTip": "WebBlog.Business\\ViewModels\\PostViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:46:57.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "WebBlog.WebAPI\\Controllers\\PostController.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\Controllers\\PostController.cs",
-              "RelativeToolTip": "WebBlog.WebAPI\\Controllers\\PostController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAvwDMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:46:14.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\Tag.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Tag.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\Tag.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:38:43.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\Category.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Category.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\Category.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:38:34.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\Post.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Post.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\Post.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:36:51.644Z",
+              "WhenOpened": "2024-08-25T01:35:12.63Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebBlogDbContext.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Data\\WebBlogDbContext.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Data\\WebBlogDbContext.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Data\\WebBlogDbContext.cs*",
-              "RelativeToolTip": "WebBlog.Data\\Data\\WebBlogDbContext.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\User.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Models\\User.cs",
+              "RelativeToolTip": "WebBlog.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:35:12.63Z",
+              "WhenOpened": "2024-08-25T12:09:59.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "WebBlog.Data\\Models\\Role.cs",
-              "ToolTip": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\Models\\Role.cs",
-              "RelativeToolTip": "WebBlog.Data\\Models\\Role.cs",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Data\\SeedData.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Data\\SeedData.cs",
+              "RelativeToolTip": "WebBlog.Data\\Data\\SeedData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T01:32:57.574Z",
+              "WhenOpened": "2024-08-25T12:09:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Dtos\\Post\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "WebBlog.Business\\Dtos\\Post\\CreatePostDto.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Dtos\\Post\\CreatePostDto.cs",
+              "RelativeToolTip": "WebBlog.Business\\Dtos\\Post\\CreatePostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:59:17.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\ViewModels\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "WebBlog.Business\\ViewModels\\PostViewModel.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\ViewModels\\PostViewModel.cs",
+              "RelativeToolTip": "WebBlog.Business\\ViewModels\\PostViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:59:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebBlog.WebAPI\\Program.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\Program.cs",
+              "RelativeToolTip": "WebBlog.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:56:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostProfile.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Mapper\\PostProfile.cs",
+              "RelativeDocumentMoniker": "WebBlog.Business\\Mapper\\PostProfile.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Mapper\\PostProfile.cs",
+              "RelativeToolTip": "WebBlog.Business\\Mapper\\PostProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:56:24.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebBlog.Business",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
+              "RelativeDocumentMoniker": "WebBlog.Business\\WebBlog.Business.csproj",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
+              "RelativeToolTip": "WebBlog.Business\\WebBlog.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T11:54:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WebBlog.WebAPI\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WebBlog.WebAPI\\Controllers\\PostController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:07:38.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "WebBlog.Business\\Services\\PostService.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Services\\PostService.cs",
+              "RelativeToolTip": "WebBlog.Business\\Services\\PostService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA9wCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:26:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Services\\Base\\BaseService.cs",
+              "RelativeDocumentMoniker": "WebBlog.Business\\Services\\Base\\BaseService.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\Services\\Base\\BaseService.cs",
+              "RelativeToolTip": "WebBlog.Business\\Services\\Base\\BaseService.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAA1wIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:23:53.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "WebBlog.Data\\Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:09:46.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "WebBlog.Data\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:10:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "WebBlog.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:10:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
+              "ToolTip": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebBlog.Data\\Infrastructure\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T04:59:27.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

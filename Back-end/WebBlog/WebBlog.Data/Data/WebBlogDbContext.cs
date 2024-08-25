@@ -15,7 +15,7 @@ namespace WebBlog.Data.Data
         public DbSet<Post> Posts { get; set; }
 		public DbSet<Tag> Tags { get; set; }
 		public DbSet<Category> Categories { get; set; }
-		public DbSet<PostTagMap> PostTagsMap { get; set; }
+		public DbSet<PostTagMap> PostTagMaps { get; set; }
 
         public WebBlogDbContext(DbContextOptions<WebBlogDbContext> options) : base(options)
         {

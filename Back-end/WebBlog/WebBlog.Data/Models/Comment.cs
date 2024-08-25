@@ -8,5 +8,8 @@ namespace WebBlog.Data.Models
 {
 	public class Comment
 	{
+		public Guid Id { get; set; }
+		public required string Content { get; set; }
+		public DateTime PostedOn { get; set; }
 	}
 }

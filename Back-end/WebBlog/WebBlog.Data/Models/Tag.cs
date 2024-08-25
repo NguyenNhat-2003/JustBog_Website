@@ -10,10 +10,10 @@ namespace WebBlog.Data.Models
     public class Tag
     {
         public Guid Id { get; set; }
-        public string Name { get; set; }
+        public required string Name { get; set; }
         public string UrlSlug { get; set; }
-        public string Description { get; set; }
+        public string? Description { get; set; }
         public int Count { get; set; }
-        public IList<PostTagMap> PostTagMaps { get; set; }
+        public IList<PostTagMap>? PostTagMaps { get; set; }
     }
 }

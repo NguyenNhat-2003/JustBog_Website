@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {}
+    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj": {
+    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
+        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
         "projectName": "WebBlog.Business",
-        "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
+        "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj",
         "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\obj\\",
+        "outputPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj": {
-                "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj"
+              "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj": {
+                "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -75,14 +79,14 @@
         }
       }
     },
-    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj": {
+    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj",
         "projectName": "WebBlog.Data",
-        "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj",
+        "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj",
         "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\obj\\",
+        "outputPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +160,14 @@
         }
       }
     },
-    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {
+    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
         "projectName": "WebBlog.WebAPI",
-        "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+        "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
         "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.WebAPI\\obj\\",
+        "outputPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -181,11 +185,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj": {
-                "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj"
+              "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj": {
+                "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Business\\WebBlog.Business.csproj"
               },
-              "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj": {
-                "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj"
+              "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj": {
+                "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog\\WebBlog.Data\\WebBlog.Data.csproj"
               }
             }
           }

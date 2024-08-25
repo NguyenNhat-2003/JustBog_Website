@@ -6,6 +6,7 @@ using WebBlog.Data;
 using WebBlog.Data.Models;
 using System.Globalization;
 using System.Linq.Expressions;
+using WebBlog.Business.Dtos.Post;
 
 namespace WebBlog.Business.Services
 {
@@ -16,7 +17,7 @@ namespace WebBlog.Business.Services
             
         }
 
-        public async Task<PaginatedResult<Post>> GetByPagingAsync(string filter = "", string sortBy = "", int pageIndex = 1, int pageSize = 10)
+		public async Task<PaginatedResult<Post>> GetByPagingAsync(string filter = "", string sortBy = "", int pageIndex = 1, int pageSize = 10)
         {
             Func<IQueryable<Post>, IOrderedQueryable<Post>> orderBy = null;
 

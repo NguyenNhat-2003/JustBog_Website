@@ -1,4 +1,5 @@
-﻿using WebBlog.Data.Models;
+﻿using WebBlog.Business.Dtos.Post;
+using WebBlog.Data.Models;
 
 namespace WebBlog.Business.Services
 {
@@ -9,5 +10,5 @@ namespace WebBlog.Business.Services
             string sortBy = "",
             int pageIndex = 1,
             int pageSize = 10);
-    }
+	}
 }

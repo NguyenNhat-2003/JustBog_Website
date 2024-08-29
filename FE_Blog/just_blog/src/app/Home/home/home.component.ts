@@ -1,17 +1,22 @@
 import { CommonModule } from '@angular/common';
-import { Component, HostListener, inject } from '@angular/core';
+import { Component, HostListener, inject, OnInit } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import {MatDialog, MatDialogModule} from '@angular/material/dialog';
+import { MatDialog, MatDialogModule } from '@angular/material/dialog';
 import { CreatePostComponent } from '../../Post/post/create-post/create-post.component';
+import { PostService } from '../../Post/post/post.service';
 @Component({
   selector: 'app-home',
   standalone: true,
   imports: [CommonModule,
-    RouterModule,MatDialogModule],
+    RouterModule, MatDialogModule],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
 })
-export class HomeComponent {
+export class HomeComponent implements OnInit {
+
+  page_index = 1;
+  page_size = 10;
+  Post: any[] = []
   @HostListener('document:DOMContentLoaded', ['$event'])
   onDomContentLoaded(event: Event) {
     let scrollPos = 0;
@@ -37,9 +42,22 @@ export class HomeComponent {
       scrollPos = currentTop;
     });
   }
+  private post_services = inject(PostService)
 
   readonly dialog = inject(MatDialog);
 
+  GetPost() {
+
+
+    this.post_services.GetPost(this.page_index, this.page_size).subscribe(res => {
+
+      console.log("RRR", res);
+
+    })
+  }
+  ngOnInit(): void {
+    this.GetPost();
+  }
   openDialog() {
     const dialogRef = this.dialog.open(CreatePostComponent);
 

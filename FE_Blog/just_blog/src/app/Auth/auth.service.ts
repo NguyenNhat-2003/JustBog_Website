@@ -13,4 +13,9 @@ export class AuthService {
     return this.http.post<any>(url,body);
 
   }
+  Register(body:any) {
+    const url = this.baseUrl + `api/Auth/register`;
+    return this.http.post<any>(url,body);
+
+  }
 }

@@ -27,6 +27,7 @@ export class LoginComponent {
       this.authen_services.Login(item).subscribe(res => {
         console.log("ress", res);
         if (res && !_.isEmpty(res.token)) {
+          localStorage.setItem("token",res.token)
           this.router.navigateByUrl('home')
         }
 

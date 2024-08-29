@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {}
+    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
+    "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "projectName": "WebBlog.UnitTest",
-        "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\obj\\",
+        "outputPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",

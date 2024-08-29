@@ -1397,3 +1397,14 @@ D:\Web\MockProject\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\refint\WebBlog.WebAP
 D:\Web\MockProject\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.pdb
 D:\Web\MockProject\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.genruntimeconfig.cache
 D:\Web\MockProject\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\ref\WebBlog.WebAPI.dll
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.csproj.AssemblyReference.cache
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.AssemblyInfoInputs.cache
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.AssemblyInfo.cs
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.csproj.CoreCompileInputs.cache
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.sourcelink.json
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.dll
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\refint\WebBlog.WebAPI.dll
+D:\Web\JustBog_Website\Back-end\WebBlog.WebAPI\obj\Debug\net8.0\WebBlog.WebAPI.pdb

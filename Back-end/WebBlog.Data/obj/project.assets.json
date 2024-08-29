@@ -4355,11 +4355,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+      "projectUniqueName": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
       "projectName": "WebBlog.Data",
-      "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
+      "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj",
       "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-      "outputPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\obj\\",
+      "outputPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",

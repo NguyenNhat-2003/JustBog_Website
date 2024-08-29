@@ -9943,11 +9943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web\\MockProject\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+      "projectUniqueName": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
       "projectName": "WebBlog.WebAPI",
-      "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
+      "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.WebAPI\\WebBlog.WebAPI.csproj",
       "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-      "outputPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.WebAPI\\obj\\",
+      "outputPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9964,14 +9964,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Web\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj": {
-              "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj"
+            "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj": {
+              "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj"
             },
-            "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
-              "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
+            "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+              "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
             },
-            "D:\\Web\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
-              "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj"
+            "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
+              "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj"
             }
           }
         }

@@ -29,6 +29,7 @@ namespace WebBlog.WebAPI.Controllers
         }
 
         // GET: api/Tag/{id}
+        [Authorize(Roles = "Admin, User")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(Guid id)
         {

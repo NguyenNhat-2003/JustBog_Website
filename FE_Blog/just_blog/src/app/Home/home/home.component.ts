@@ -1,12 +1,13 @@
 import { CommonModule } from '@angular/common';
-import { Component, HostListener } from '@angular/core';
+import { Component, HostListener, inject } from '@angular/core';
 import { RouterModule } from '@angular/router';
-
+import {MatDialog, MatDialogModule} from '@angular/material/dialog';
+import { CreatePostComponent } from '../../Post/post/create-post/create-post.component';
 @Component({
   selector: 'app-home',
   standalone: true,
   imports: [CommonModule,
-    RouterModule],
+    RouterModule,MatDialogModule],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
 })
@@ -34,6 +35,16 @@ export class HomeComponent {
         }
       }
       scrollPos = currentTop;
+    });
+  }
+
+  readonly dialog = inject(MatDialog);
+
+  openDialog() {
+    const dialogRef = this.dialog.open(CreatePostComponent);
+
+    dialogRef.afterClosed().subscribe(result => {
+      console.log(`Dialog result: ${result}`);
     });
   }
 }

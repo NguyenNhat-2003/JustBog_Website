@@ -5,6 +5,8 @@ import { AboutComponent } from './About/about/about.component';
 import { ContactComponent } from './Contact/contact/contact.component';
 import { PostComponent } from './Post/post/post.component';
 import { RegisterComponent } from './Auth/register/register.component';
+import { DetailPostComponent } from './Post/post/detail-post/detail-post.component';
+import { AuthGuard } from './Auth/auth.guard';
 
 export const routes: Routes = [
     {
@@ -27,6 +29,7 @@ export const routes: Routes = [
     },
     {
         path: 'home',
+        canActivate: [AuthGuard],
         component: HomeComponent
     },
     {
@@ -37,4 +40,9 @@ export const routes: Routes = [
         path: 'post',
         component: PostComponent
     },
+    {
+        path: 'post/:id',
+        component: DetailPostComponent
+    },
+    
 ];

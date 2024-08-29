@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {}
+    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
+    "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "projectName": "WebBlog.UnitTest",
-        "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
+        "projectPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\WebBlog.UnitTest.csproj",
         "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-        "outputPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.UnitTest\\obj\\",
+        "outputPath": "D:\\FPT Intern\\Web\\Report\\MockProject\\Back-end\\WebBlog.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {

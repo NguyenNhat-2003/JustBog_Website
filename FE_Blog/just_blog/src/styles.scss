@@ -12590,9 +12590,38 @@ header.masthead .post-heading .meta a {
         font-size: 2.25rem;
     }
 }
+
 .mat-mdc-dialog-surface {
- 
+    border-radius: 8px !important;
     background: #FFFF !important;
 }
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.ql-container {
+    min-height: 120px;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    opacity: 0;
+    height: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #c2c2c9;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px #c2c2c9;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}

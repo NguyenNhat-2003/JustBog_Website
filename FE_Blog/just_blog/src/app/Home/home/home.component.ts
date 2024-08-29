@@ -59,7 +59,10 @@ export class HomeComponent implements OnInit {
     this.GetPost();
   }
   openDialog() {
-    const dialogRef = this.dialog.open(CreatePostComponent);
+    const dialogRef = this.dialog.open(CreatePostComponent, {
+      height: '550px',
+      disableClose: true
+    });
 
     dialogRef.afterClosed().subscribe(result => {
       console.log(`Dialog result: ${result}`);

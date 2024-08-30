@@ -3077,11 +3077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+      "projectUniqueName": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
       "projectName": "WebBlog.Business",
-      "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+      "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
       "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.Business\\obj\\",
+      "outputPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3092,15 +3092,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
-              "projectPath": "D:\\FPT Intern\\Web\\Report\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
+            "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+              "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
             }
           }
         }
@@ -3109,11 +3108,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

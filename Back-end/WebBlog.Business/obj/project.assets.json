@@ -3077,11 +3077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+      "projectUniqueName": "D:\\Web\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
       "projectName": "WebBlog.Business",
-      "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+      "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
       "packagesPath": "C:\\Users\\nhatx\\.nuget\\packages\\",
-      "outputPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\obj\\",
+      "outputPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3098,8 +3098,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
-              "projectPath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
+            "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj": {
+              "projectPath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Data\\WebBlog.Data.csproj"
             }
           }
         }

@@ -35,6 +35,7 @@ namespace WebBlog.Business
             var user = await _userManager.FindByNameAsync(loginViewModel.UserName);
             if (user == null || !await _userManager.CheckPasswordAsync(user, loginViewModel.Password))
             {
+                return new LoginResponseViewModel { Token = null, UserInformation = null };
                 throw new UnauthorizedAccessException("Invalid username or password.");
             }
 
@@ -55,7 +56,6 @@ namespace WebBlog.Business
             var user = new User()
             {
                 UserName = registerViewModel.UserName,
-                FirstName = registerViewModel.FirstName,
                 IsActive = registerViewModel.IsActive
             };
 

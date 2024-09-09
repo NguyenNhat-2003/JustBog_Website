@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ErQE3k4Kmu/I9ERC1xFXAhCRmVCKgpM/vrW268igJYihX30fEMGObJajriYwQXAZYd4dCsDQoExp9sU/jdNooQ==",
+  "dgSpecHash": "qxk9sAaH6WUBeopZXOykwHMw02z31ntWkbFQGkHOHSJm00isXCYGG63y9sVhc9q1CD8CryWEwcO5CStuKi4T3Q==",
   "success": true,
-  "projectFilePath": "D:\\Web\\JustBog_Website\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
+  "projectFilePath": "D:\\Web\\MockProject\\Back-end\\WebBlog.Business\\WebBlog.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatx\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\nhatx\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
